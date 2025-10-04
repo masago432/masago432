@@ -1,7 +1,6 @@
 # こんにちは、masagoです！ 👋
 
-PythonとWeb開発を勉強中。フリーランスを目指しています。
-
+PythonとWeb開発を勉強中。
 ## 🌸 ポートフォリオ
 - [おみくじアプリ 🎴](https://masago432.github.io/omikuji-app/)  
 
@@ -9,8 +8,5 @@ PythonとWeb開発を勉強中。フリーランスを目指しています。
 - Python
 - Django
 - HTML / CSS / JavaScript
+- Power BI
 
-## 🐾 好きなもの
-- ライちゃん（ベンガル猫）
-- ようちゃんと一緒に映画を観ること
-- コーヒーと甘いもの ☕🍩
