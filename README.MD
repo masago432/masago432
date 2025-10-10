@@ -1,6 +1,6 @@
 # こんにちは、masagoです！ 👋
 
-PythonとWeb開発を勉強中。
+PythonとWeb開発、SQLを勉強中。
 ## 🌸 ポートフォリオ
 - https://github.com/masago432/web-portfolio
 - [おみくじアプリ 🎴](https://masago432.github.io/omikuji-app/)  
@@ -10,5 +10,5 @@ PythonとWeb開発を勉強中。
 - Python
 - Django
 - HTML / CSS / JavaScript
+- SQL
 - Power BI
-
