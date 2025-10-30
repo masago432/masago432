@@ -1,5 +1,9 @@
 # こんにちは、masagoです！ 👋
 
+20年近く、ウェブ制作の仕事に携わってきました。
+ディレクター、編集、コーダー等
+HTML CSS3 Photoshop Illusrator WordPress PowerCMS 
+
 PythonとWeb開発、SQLを勉強中。
 ## 🌸 ポートフォリオ
 - https://github.com/masago432/web-portfolio
