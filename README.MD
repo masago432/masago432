@@ -10,7 +10,7 @@ PythonとWeb開発、SQLを勉強中。
 - [おみくじアプリ 🎴](https://masago432.github.io/omikuji-app/)  (python) 
 - 猫のタロットカード　https://cbgtl5cfrknymyscyjtgvm.streamlit.app/ (python)
 - Webアプリサンプルコード　https://masago432.github.io/webapp/ (JavaScript)
-
+- 簡単文章要約　https://azure-summarizer-app-m8gepbwp8ukzyappgbe5afm.streamlit.app/ (python)
 
 ## 💡 学習中の技術
 - Python
